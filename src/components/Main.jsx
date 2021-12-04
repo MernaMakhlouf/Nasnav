@@ -1,9 +1,7 @@
 import React , {Component}from 'react'
-
 import styled from 'styled-components'
 import './HomeStyle.css'
 import { MainItem, ProductItemsData } from '../services/Data'
-
 import adidas from '../images/Adidas.png'
 import star from '../images/Star.png'
 import unstar from '../images/Unstar.png'
@@ -129,15 +127,10 @@ const Main = (props) => {
             <p> Pickup From {item.place}</p>
                 </div>
             </div>
-            ))}
-            
-            
+            ))}     
         </div>
         </section>
-        
-        
         </div>
     )
 }
-
 export default Main

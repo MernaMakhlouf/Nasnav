@@ -24,9 +24,7 @@ class Calculation extends React.Component
             return {
                 count: prev.count + 1
             } 
-            }
-            
-            )}
+            })}
             render()
             {
                 return(
@@ -39,5 +37,3 @@ class Calculation extends React.Component
             }
 }
 export default Calculation
-
-

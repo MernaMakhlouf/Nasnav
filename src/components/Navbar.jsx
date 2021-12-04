@@ -10,10 +10,7 @@ import cartt from '../images/Cartt.png'
 import wishlist from '../images/Like.png'
 import login from '../images/Login.png'
 
-
-
 const Navbar = () => {
-
     return (    
     <div className = "Container">
         <div className = "Row" id = "Navbar1">
@@ -75,5 +72,4 @@ const Navbar = () => {
     </div>
     )
 }
-
 export default Navbar

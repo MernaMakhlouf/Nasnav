@@ -1,12 +1,9 @@
 import React from 'react'
-
-import mainadidas from '../images/MainAdidas.png'
 import adidas from '../images/Adidas.png'
 import star from '../images/Star.png'
 import unstar from '../images/Unstar.png'
 import sample1 from '../images/Sample1.png'
 import sample2 from '../images/Sample2.png'
-
 
 export const MainItem = [
     {
@@ -28,8 +25,6 @@ export const MainItem = [
 
     }
   ];
-
-
 export const ProductItemsData = [
     {
         id: 1,
@@ -89,7 +84,5 @@ export const ProductItemsData = [
         price: "2500 LE",
         actualPrice: "4000LE",
         place: "El Obour",
-        
     },
 ];
- 

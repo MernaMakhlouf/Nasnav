@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import './Style.css'
-
 import logo from '../images/Logo.png'
 import Cash from'../images/Cash.png'
 import Visa from'../images/Visa.png'
@@ -11,9 +10,9 @@ import facebook from '../images/Facebook.png'
 import linkedin from '../images/LinkedIn.png'
 import instagram from '../images/Instagram.png'
 import twitter from '../images/Twitter.png'
+
 const Footer = props => {
     return (
-        
       <div className = "Container_Footer">
         <div className = "Row_Footer">
           
@@ -67,9 +66,4 @@ const Footer = props => {
         
     )
 }
-
-
-
-
-
 export default Footer
