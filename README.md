@@ -3,10 +3,10 @@ Install nodejs and npm
 
 **Before running the project, make sure the node modules are installed**
 if the node modules are not installed, run this command 
-npm install react-scripts --save
+"npm install react-scripts --save"
 
 **To run the project** 
-use npm start or yarn start
+use "npm start" or "yarn start"
 
 # Getting Started with Create React App
 
